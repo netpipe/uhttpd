@@ -1,0 +1,8 @@
+/home/netpipe/Desktop/uhttpd/CMakeFiles/uhttpd.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/uhttpd_ubus.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/edit_cache.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/rebuild_cache.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/list_install_components.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/install.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/install/local.dir
+/home/netpipe/Desktop/uhttpd/CMakeFiles/install/strip.dir

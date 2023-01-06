@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared  -o uhttpd_ubus.so CMakeFiles/uhttpd_ubus.dir/ubus.c.o   -L./libubus  -L./libubox  -Wl,-rpath,./libubus:./libubox: -lubus -lubox -lblobmsg_json -llibjson 
